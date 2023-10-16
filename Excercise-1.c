@@ -7,6 +7,14 @@
      printf("Mobile : 99-9999999999\n"); 
 
      printf("%ld", __STDC_VERSION__);
+
+     printf("######\n");
+	  printf("#\n");
+	  printf("#\n");
+	  printf("#####\n");
+	  printf("#\n");
+	  printf("#\n");
+	  printf("#\n");
    
      return(0);
   }
