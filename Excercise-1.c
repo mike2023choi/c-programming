@@ -16,5 +16,9 @@
 	  printf("#\n");
 	  printf("#\n");
 
+     printf("Create new VS Code Project\n");
+
+     printf("Add new code to test two VS Code Projects & One GitHub\n")
+
      return(0);
   }
