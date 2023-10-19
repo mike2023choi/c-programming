@@ -15,6 +15,8 @@
 	  printf("#\n");
 	  printf("#\n");
 	  printf("#\n");
+
+     printf("Create new VS Code Project\n");
    
      return(0);
   }
